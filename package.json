@@ -1,0 +1,14 @@
+{
+  "name": "sqlite",
+  "version": "3.8.7.1",
+  "repo": "clibs/sqlite",
+  "description": "Embedded SQL database",
+  "keywords": ["sql", "database"],
+  "license": "Public domain",
+  "src": [
+    "shell.c",
+    "sqlite3.c",
+    "sqlite3.h",
+    "sqlite3ext.h",
+  ]
+}
